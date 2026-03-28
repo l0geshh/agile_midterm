@@ -14,4 +14,4 @@ if word == word[::-1]:
 else:
     print(f"Fail: '{word}' is not a palindrome.")
     sys.exit(1)
-    # Final Midterm Test for Lab TechkaksksdafwsjjdsjASDASDAASDAS
+    # Final Midterm Test for Lab TechkaksksdafwsjjdsjASDASDAASDASASDASA
